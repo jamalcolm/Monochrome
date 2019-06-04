@@ -1,2 +1,2 @@
 # Monochrome
-A challenging platformer
+A challenging platformer developed using Game Maker 8
